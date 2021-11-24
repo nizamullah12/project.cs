@@ -1,0 +1,15 @@
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\project.exe
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\project.deps.json
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\project.runtimeconfig.json
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\project.dll
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\ref\project.dll
+c:\Users\SAfi\Desktop\project\bin\Debug\net6.0\project.pdb
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.dll
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\ref\project.dll
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.pdb
+c:\Users\SAfi\Desktop\project\obj\Debug\net6.0\project.genruntimeconfig.cache
